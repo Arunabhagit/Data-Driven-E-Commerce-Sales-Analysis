@@ -12,7 +12,7 @@ This project demonstrates my ability to work with real-world datasets, apply ana
   Get the full raw data from https://www.kaggle.com/datasets/arunabha9163/online-e-commerce-data-for-analysis
  
 2. For Statistical insights I used  plotly Library Function
-3. I used Google Colab for codes
+3. I used Google Colab for Coding 
 
 # Data Cleaning
 
@@ -22,6 +22,8 @@ Correctly assinged Order Date and Ship Date  Datatype
 Then I created new columns of Year, Day and DayofWeek from Order Date
 
  # Statistical Chart & Insights 
+
+"C:\Users\91916\OneDrive\Pictures\Insights\Screenshot 2025-03-24 212747.png"
 
 
 
