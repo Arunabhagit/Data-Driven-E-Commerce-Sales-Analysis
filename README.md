@@ -18,10 +18,10 @@ This project demonstrates my ability to work with real-world datasets, apply ana
 
 Firstly, Identified and removed duplicate rows to ensure data integrity and avoid skewed analysis.
 Checked for missing values across all columns. Numerical columns had missing values filled with the median or mean, while categorical columns were imputed using the mode or removed if they were not essential.
-Correctly assinged Order Date and Ship Date  Datatype
+Correctly assinged Order Date and Ship Date Datatypes 
 Then I created new columns of Year, Day and DayofWeek from Order Date
 
- # Statistical Chart & Insights 
+ # Statistical Charts & Insights 
 
 ![Screenshot 2025-03-24 212747](https://github.com/user-attachments/assets/9c80d7f6-f7c4-454e-b500-2eaf66d2b17f)
 
