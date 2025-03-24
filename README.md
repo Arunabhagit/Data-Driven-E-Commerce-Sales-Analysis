@@ -23,6 +23,5 @@ Then I created new columns of Year, Day and DayofWeek from Order Date
 
  # Statistical Chart & Insights 
 
-
-
+![Screenshot 2025-03-24 212747](https://github.com/user-attachments/assets/9c80d7f6-f7c4-454e-b500-2eaf66d2b17f)
 
