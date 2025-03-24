@@ -23,7 +23,7 @@ Then I created new columns of Year, Day and DayofWeek from Order Date
 
  # Statistical Chart & Insights 
 
-"C:\Users\91916\OneDrive\Pictures\Insights\Screenshot 2025-03-24 212747.png"
+
 
 
 
