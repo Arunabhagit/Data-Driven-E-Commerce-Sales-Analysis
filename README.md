@@ -12,3 +12,16 @@ This project demonstrates my ability to work with real-world datasets, apply ana
 2. For Statistical insights I used  plotly Library Function
 3. I used Google Colab for codes
 
+# Data Cleaning
+
+Firstly, Identified and removed duplicate rows to ensure data integrity and avoid skewed analysis.
+
+Checked for missing values across all columns. Numerical columns had missing values filled with the median or mean, while categorical columns were imputed using the mode or removed if they were not essential.
+
+ Correctly assinged Order Date and Ship Date  Datatype
+
+ Then I created new columns of Year, Day and DayofWeek from Order Date
+
+ 
+
+
