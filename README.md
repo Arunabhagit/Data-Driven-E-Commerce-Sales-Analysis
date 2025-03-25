@@ -41,4 +41,16 @@ The line chart shows monthly profit trends, with fluctuations throughout the yea
 
 Analyze the Sales based on Product Categories
 
+![Screenshot 2025-03-25 120459](https://github.com/user-attachments/assets/d1e63183-7616-461f-a432-bbbd8057db5c)
+
+The chart illustrates sales distribution across three categories. Technology leads with 36.4% of total sales, followed by Furniture at 32.3% and Office Supplies at 31.3%. The relatively balanced distribution suggests each category contributes significantly to overall revenue, with Technology dominating.
+
+
+
+
+
+
+
+
+
 
