@@ -33,4 +33,9 @@ Analyze the Monthly sales of the store and identify trends of sales in every mon
 
 The line chart illustrates monthly sales trends, showing fluctuations throughout the year. Sales were lowest in February but rose significantly in March. After a slight decline in April, sales remained stable until August. A sharp increase occurred in September, followed by a dip in October. November recorded the highest sales, with a slight drop in December. The trend indicates seasonal variations and possible peak demand periods.
 
+Analyze Monthly profits Trend according to Sales
+
+![Screenshot 2025-03-25 114447](https://github.com/user-attachments/assets/6cd1e383-6c84-4ad9-a00b-63314254b088)
+
+The line chart shows monthly profit trends, with fluctuations throughout the year. The profit is directly influenced by sales, showing a simultaneous trend with the sales chart. As sales increase, profit follows a similar upward pattern, while declines in sales also result in lower profits, highlighting their strong correlation.
 
