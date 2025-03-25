@@ -75,4 +75,7 @@ Sales in the West region were higher due to large states like California and Was
 
 #  Strategic decisions  base on analysis
 
+ * Plan seasonal marketing campaigns mainly November and December like Chirstmas Time. Aslo give discounts to boost sales during slow months.
+
+ * Prioritize stocking high-selling products and reduce inventory for low-demand items. Increase Technology products sales with offers cause most of the sales is for technology iteams. Offer discounts or bundle deals on slow-moving products to clear stock . 
 
