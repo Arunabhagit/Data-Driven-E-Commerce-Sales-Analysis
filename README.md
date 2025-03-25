@@ -16,12 +16,14 @@ This project demonstrates my ability to work with real-world datasets, apply ana
 
 # Data Cleaning
 
-Firstly, Identified and removed duplicate rows to ensure data integrity and avoid skewed analysis.
-Checked for missing values across all columns. Numerical columns had missing values filled with the median or mean, while categorical columns were imputed using the mode or removed if they were not essential.
-Correctly assinged Order Date and Ship Date Datatypes 
-Then I created new columns of Year, Day and DayofWeek from Order Date
+First, I identified and removed duplicate rows to ensure data integrity and prevent skewed analysis. Then, I checked for missing values across all columns. Missing values in numerical columns were filled with the median or mean, while categorical columns were imputed using the mode or removed if they were deemed non-essential.
+Next, I correctly assigned the appropriate data types to the Order Date and Ship Date columns. Finally, I extracted and created new columns for Year, Day, and Day of the Week from the Order Date to facilitate further analysis.
 
  # Statistical Charts & Insights 
 
+Analyze Yearly Sales and Profit trends
+
 ![Screenshot 2025-03-24 212747](https://github.com/user-attachments/assets/9c80d7f6-f7c4-454e-b500-2eaf66d2b17f)
+
+The bar chart illustrates yearly sales and profit trends from 2014 to 2017. Sales and Profit consistently increased each year. The highest sales and profit were recorded in 2017.
 
