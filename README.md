@@ -57,4 +57,19 @@ The chart reveals that Technology contributes the highest profits at 50.8%, foll
 
 The chart highlights key insights into sales and profitability across various sub-categories. Chairs, Phones, and Binders generate the highest sales, but their profit margins vary significantly. Phones and Binders are relatively profitable, whereas Chairs have lower profitability despite high sales. Copiers and Accessories also show strong sales with moderate profits. However, Tables have negative profits despite significant sales, indicating inefficiencies or high costs. Sub-categories like Fasteners and Bookcases contribute minimal revenue and profit.
 
+* Analyze the sales and profit by customer segment
+
+![Screenshot 2025-03-25 122750](https://github.com/user-attachments/assets/c9a5650c-86a6-44a8-a58b-b3dc02b14547)
+
+The chart reveals that the Consumer segment generates the highest sales, followed by Corporate and Home Office. However, despite leading in sales, the Consumer segment also contributes the highest profit, indicating strong profitability. The Corporate segment has moderate sales and profits, suggesting stable performance. Meanwhile, Home Office has the lowest sales and profit, possibly due to lower purchasing power or fewer bulk orders.
+
+* Sales Trends from Each Region of Country
+
+![Screenshot 2025-03-25 123054](https://github.com/user-attachments/assets/7de2fe14-54d6-420c-93d9-3f6772245aec)
+  
+The Sales by Region chart reveals that the West (31.6%) and East (29.5%) regions contribute the highest sales, making up over 60% of total sales. The Central region (21.8%) follows, while the South (17%) has the lowest sales. 
+
+* Analyze number of Sales of  each State
+  
+![Screenshot 2025-03-25 123502](https://github.com/user-attachments/assets/ce8b5314-635e-4e83-af7d-1e459a0fa1a6)
 
