@@ -8,9 +8,7 @@ This project demonstrates my ability to work with real-world datasets, apply ana
 
 # Tools Used
 
-1. E-Commerce Store Dataset  with 9994 Rows and 21 Columns
-  Get the full raw data from https://www.kaggle.com/datasets/arunabha9163/online-e-commerce-data-for-analysis
- 
+1. E-Commerce Store Dataset with 9994 Rows and 21 Columns
 2. For Statistical insights I used  plotly Library Function.  Read about Plotly Library from here https://plotly.com/python/
 3. I used Google Colab for Coding 
 
@@ -74,3 +72,7 @@ The Sales by Region chart reveals that the West (31.6%) and East (29.5%) regions
 ![Screenshot 2025-03-25 123502](https://github.com/user-attachments/assets/ce8b5314-635e-4e83-af7d-1e459a0fa1a6)
 
 Sales in the West region were higher due to large states like California and Washington. In the East region, sales were similar in volume, primarily driven by major cities like New York. The Central region also had a sales count comparable to the East. However, sales in the South region were lower due to the absence of major cities.
+
+#  Strategic decisions  base on analysis
+
+
