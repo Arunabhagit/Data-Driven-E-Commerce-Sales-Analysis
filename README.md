@@ -9,7 +9,7 @@ This project demonstrates my ability to work with real-world datasets, apply ana
 # Tools Used
 
 1. E-Commerce Store Dataset  with 9994 Rows and 21 Columns
-  Get the full raw data from https://www.kaggle.com/datasets/arunabha9163/online-e-commerce-data-for-analysi
+  Get the full raw data from https://www.kaggle.com/datasets/arunabha9163/online-e-commerce-data-for-analysis
  
 2. For Statistical insights I used  plotly Library Function.  Read about Plotly Library from here https://plotly.com/python/
 3. I used Google Colab for Coding 
@@ -38,4 +38,7 @@ Analyze Monthly profits Trend according to Sales
 ![Screenshot 2025-03-25 114447](https://github.com/user-attachments/assets/6cd1e383-6c84-4ad9-a00b-63314254b088)
 
 The line chart shows monthly profit trends, with fluctuations throughout the year. The profit is directly influenced by sales, showing a simultaneous trend with the sales chart. As sales increase, profit follows a similar upward pattern, while declines in sales also result in lower profits, highlighting their strong correlation.
+
+Analyze the Sales based on Product Categories
+
 
