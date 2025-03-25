@@ -21,7 +21,7 @@ Next, I correctly assigned the appropriate data types to the Order Date and Ship
 
  # Statistical Charts & Insights 
 
-Analyze Yearly Sales and Profit trends
+* Analyze Yearly Sales and Profit trends
 
 ![Screenshot 2025-03-24 212747](https://github.com/user-attachments/assets/9c80d7f6-f7c4-454e-b500-2eaf66d2b17f)
 
@@ -44,8 +44,6 @@ Analyze the Sales based on Product Categories
 ![Screenshot 2025-03-25 120459](https://github.com/user-attachments/assets/d1e63183-7616-461f-a432-bbbd8057db5c)
 
 The chart illustrates sales distribution across three categories. Technology leads with 36.4% of total sales, followed by Furniture at 32.3% and Office Supplies at 31.3%. The relatively balanced distribution suggests each category contributes significantly to overall revenue, with Technology dominating.
-
-
 
 
 
