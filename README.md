@@ -9,11 +9,9 @@ This project demonstrates my ability to work with real-world datasets, apply ana
 # Tools Used
 
 1. E-Commerce Store Dataset  with 9994 Rows and 21 Columns
-  Get the full raw data from https://www.kaggle.com/datasets/arunabha9163/online-e-commerce-data-for-analysis
-
-![Screenshot 2025-03-25 115100](https://github.com/user-attachments/assets/d8aacecd-2162-4ff8-95a5-c063b83399c0)
+  Get the full raw data from https://www.kaggle.com/datasets/arunabha9163/online-e-commerce-data-for-analysi
  
-2. For Statistical insights I used  plotly Library Function.  Read about Plotly Library from here :https://plotly.com/python/
+2. For Statistical insights I used  plotly Library Function.  Read about Plotly Library from here https://plotly.com/python/
 3. I used Google Colab for Coding 
 
 # Data Cleaning
