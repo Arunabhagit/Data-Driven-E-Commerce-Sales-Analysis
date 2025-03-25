@@ -27,3 +27,10 @@ Analyze Yearly Sales and Profit trends
 
 The bar chart illustrates yearly sales and profit trends from 2014 to 2017. Sales and Profit consistently increased each year. The highest sales and profit were recorded in 2017.
 
+Analyze the Monthly sales of the store and identify trends of sales in every month
+
+![Screenshot 2025-03-25 113423](https://github.com/user-attachments/assets/6b17c43a-1535-484e-a60e-ee8c62f5a2d3)
+
+The line chart illustrates monthly sales trends, showing fluctuations throughout the year. Sales were lowest in February but rose significantly in March. After a slight decline in April, sales remained stable until August. A sharp increase occurred in September, followed by a dip in October. November recorded the highest sales, with a slight drop in December. The trend indicates seasonal variations and possible peak demand periods.
+
+
