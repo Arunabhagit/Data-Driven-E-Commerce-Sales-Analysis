@@ -71,11 +71,16 @@ The Sales by Region chart reveals that the West (31.6%) and East (29.5%) regions
   
 ![Screenshot 2025-03-25 123502](https://github.com/user-attachments/assets/ce8b5314-635e-4e83-af7d-1e459a0fa1a6)
 
-Sales in the West region were higher due to large states like California and Washington. In the East region, sales were similar in volume, primarily driven by major cities like New York. The Central region also had a sales count comparable to the East. However, sales in the South region were lower due to the absence of major cities.
-
+Sales in the West region were higher due to large states like California and Washington. In the East region, sales were similar in volume, primarily driven by major cities like New York. The Central region also had a sales count comparable to the East. However, sales in the South region were lower due to the absence of major cities. 
 #  Strategic decisions  base on analysis
 
  * Plan seasonal marketing campaigns mainly November and December like Chirstmas Time. Aslo give discounts to boost sales during slow months.
 
- * Prioritize stocking high-selling products and reduce inventory for low-demand items. Increase Technology products sales with offers cause most of the sales is for technology iteams. Offer discounts or bundle deals on slow-moving products to clear stock . 
+ * Prioritize stocking high-selling products and reduce inventory for low-demand items. Increase Technology products sales with offers cause most of the sales is for technology    iteams. Offer discounts or bundle deals on slow-moving products to clear stock .
+
+ * implement a loyalty program for repeat customers.Offer personalized recommendations and discounts for high-value customers. Target increase supply of home-office.
+
+ * Focus advertising and promotions in high-sales regions. Like West, East Region has big states.
+
+ *  Optimize ad spend and promotions during high-traffic periods . Like New Year Time need to advertise more.
 
