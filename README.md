@@ -72,6 +72,7 @@ The Sales by Region chart reveals that the West (31.6%) and East (29.5%) regions
 ![Screenshot 2025-03-25 123502](https://github.com/user-attachments/assets/ce8b5314-635e-4e83-af7d-1e459a0fa1a6)
 
 Sales in the West region were higher due to large states like California and Washington. In the East region, sales were similar in volume, primarily driven by major cities like New York. The Central region also had a sales count comparable to the East. However, sales in the South region were lower due to the absence of major cities. 
+
 #  Strategic decisions  base on analysis
 
  * Plan seasonal marketing campaigns mainly November and December like Chirstmas Time. Aslo give discounts to boost sales during slow months.
@@ -84,3 +85,8 @@ Sales in the West region were higher due to large states like California and Was
 
  *  Optimize ad spend and promotions during high-traffic periods . Like New Year Time need to advertise more.
 
+# Reference 
+
+Get Full Dataset https://www.kaggle.com/datasets/arunabha9163/online-e-commerce-data-for-analysis
+
+Get Statistical Concept https://www.atlassian.com/data/charts/essential-chart-types-for-data-visualization
