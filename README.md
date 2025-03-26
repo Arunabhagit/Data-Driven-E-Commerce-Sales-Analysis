@@ -21,7 +21,7 @@ Next, I correctly assigned the appropriate data types to the Order Date and Ship
 
 * Analyze Yearly Sales and Profit trends
 
-![Screenshot 2025-03-24 212747](https://github.com/user-attachments/assets/9c80d7f6-f7c4-454e-b500-2eaf66d2b17f)
+![year](https://github.com/user-attachments/assets/09174872-4b2f-46cc-b04a-de97d13d2e90)
 
 The bar chart illustrates yearly sales and profit trends from 2014 to 2017. Sales and Profit consistently increased each year. The highest sales and profit were recorded in 2017.
 
@@ -51,7 +51,7 @@ The chart reveals that Technology contributes the highest profits at 50.8%, foll
 
 * Analyze Sales and Profit Trends on Sub-Category
 
-![Screenshot 2025-03-25 121954](https://github.com/user-attachments/assets/003c8b1c-d625-4897-8948-c8124f1c3586)
+![sub-category](https://github.com/user-attachments/assets/47fe0065-fb44-4d31-befe-b997a700b6c7)
 
 The chart highlights key insights into sales and profitability across various sub-categories. Chairs, Phones, and Binders generate the highest sales, but their profit margins vary significantly. Phones and Binders are relatively profitable, whereas Chairs have lower profitability despite high sales. Copiers and Accessories also show strong sales with moderate profits. However, Tables have negative profits despite significant sales, indicating inefficiencies or high costs. Sub-categories like Fasteners and Bookcases contribute minimal revenue and profit.
 
