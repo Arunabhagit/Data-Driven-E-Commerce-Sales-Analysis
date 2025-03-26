@@ -8,9 +8,13 @@ This project demonstrates my ability to work with real-world datasets, apply ana
 
 # Tools Used
 
-1. E-Commerce Store Dataset with 9994 Rows and 21 Columns
-2. For Statistical insights I used  plotly Library Function.  Read about Plotly Library from here https://plotly.com/python/
-3. I used Google Colab for Coding 
+Dataset: E-Commerce Store dataset with 9,994 rows and 21 columns.
+
+Programming Language: Python.
+
+Visualization Library: Used Plotly for statistical insights. Learn more about Plotly here.
+
+Development Environment: Google Colab for coding.
 
 # Data Cleaning
 
