@@ -12,7 +12,7 @@ Dataset: E-Commerce Store dataset with 9,994 rows and 21 columns.
 
 Programming Language: Python.
 
-Visualization Library: Used Plotly for statistical insights. Learn more about Plotly here.
+Visualization Library: Used Plotly for statistical insights. Learn more about Plotly https://plotly.com/python/
 
 Development Environment: Google Colab for coding.
 
