@@ -1,4 +1,4 @@
-# Online  E-Commerce Sales Data Insights & Analysis
+# E-Commerce Sales Data Insights & Analysis
 
  # Introduction
 
