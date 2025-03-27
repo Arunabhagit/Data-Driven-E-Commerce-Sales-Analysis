@@ -8,7 +8,7 @@ This project demonstrates my ability to work with real-world datasets, apply ana
 
 # Tools Used
 
-Dataset: E-Commerce Store dataset with 9,994 rows and 21 columns.
+** Dataset: E-Commerce Store dataset with 9,994 rows and 21 columns.
 
 Programming Language: Python.
 
